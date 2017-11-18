@@ -61,19 +61,19 @@ I **social network**, infine, possono aiutare a consolidare la tua strategia di 
 <br/>
 <div class="post-list">
 
-  <h3 class="page-heading">Siti web/Creare siti/Tutorial</h3>
+  <h3 class="page-heading">Creazione Siti web / Tutorial:</h3>
 
   <ul class="post-list">
     {% for post in site.posts %}
       <li>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
-        <h2>
+        <h4>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}" title="vai al tutorial siti-web">{{ post.title }}</a>
-        </h2>
+        </h4>
       </li>
     {% endfor %}
   </ul>
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }} title="sottoscrivi il feed rss e mantieniti aggiornato in fatto di webdesign con i tutorial siti-web">via RSS</a></p>
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}" title="sottoscrivi il feed rss e mantieniti aggiornato in fatto di webdesign con i tutorial siti-web">via RSS</a></p>
 </div>

@@ -66,16 +66,16 @@ Di recente introduzione fra i servizi sitiweb.fvg, l’utilizzo della tecnologia
   <br/>
   <div class="post-list">
 
-    <h3 class="page-heading">Siti web/Creare siti/Tutorial</h3>
+    <h3 class="page-heading">Creazione Siti web / Tutorial:</h3>
 
     <ul class="post-list">
       {% for post in site.posts %}
         <li>
           <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
-          <h2>
+          <h4>
             <a class="post-link" href="{{ post.url | prepend: site.baseurl }}" title="vai al tutorial siti-web">{{ post.title }}</a>
-          </h2>
+          </h4>
         </li>
       {% endfor %}
     </ul>
