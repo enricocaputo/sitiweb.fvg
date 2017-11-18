@@ -1,0 +1,53 @@
+<footer class="site-footer">
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading">{{ site.title }}</h2>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li>{{ site.title }}</li>
+          <li><a href="mailto:{{ site.email }}" title="questa la e-mail di sitiweb.fvg web agency a Udine a trieste. Scrivi per chiedere informazioni e realizzare il tuo nuovo sito web.">&#9993; {{ site.email }}</a></li>
+          <li><a href="tel:+393889005888" title="Telefono di sitiweb.fvg web agency a Udine a trieste. Telefona adesso per chiedere informazioni e realizzare il tuo nuovo sito web." >&#9742; +39 388 9005888 </a></li>
+        </ul>
+      </div>
+
+      <div class="footer-col footer-col-2">
+        <ul class="social-media-list">
+          {% if site.facebook_username %}
+          <li>
+            {% include icon-facebook.html username=site.facebook_username %}
+          </li>
+          {% endif %}
+
+          {% if site.linkedin_username %}
+          <li>
+            {% include icon-linkedin.html username=site.linkedin_username %}
+          </li>
+          {% endif %}
+          <li><span class="icon">{% include icon-facebook.svg %}</span>
+            <div class="fb-like" data-href="http://www.sitiweb.fvg.it/" data-layout="button" data-action="like" data-size="small" data-show-faces="false" data-share="false"></div>
+            <div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = 'https://connect.facebook.net/it_IT/sdk.js#xfbml=1&version=v2.11&appId=1683293785299856';
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+          </li>
+        </ul>
+      </div>
+
+      <div class="footer-col footer-col-3">
+        <p>{{ site.description }}</p>
+      </div>
+
+    </div>
+    <div class="cookie center">
+    <em>Continuando la navigazione dichiarate espressamente di accettate la <a href="/privacy-policy.html" title="Privacy policy e cookie policy del sito www.sitiweb.fvg.it">privacy policy di sitiweb.fvg</a>.</em>
+    </div>
+  </div>
+
+</footer>

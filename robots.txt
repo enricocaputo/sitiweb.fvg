@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: http://www.sitiweb.fvg.it/sitemap.xml

@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+  {% include head.html %}
+  <body>
+    {% include header.html %}
+    <div>
+      <a class="googleSearch" href="/cerca/" title="Cerca sul sito www.sitiweb.fvg.it"><b> &#128269; &nbsp; Cerca </b></a>
+    </div>
+    <div class="gallery">
+      {{  content }}
+    </div>
+    {% include footer.html %}
+  </body>
+  <script type="application/ld+json">
+  {
+    "@context" : "http://schema.org",
+    "@type" : "WebSite",
+    "name" : "sitiweb.fvg è Agenzia Web a Udine. Realizzazione siti web. SEO.",
+    "url" : "http://www.sitiweb.fvg.it/",
+    "potentialAction" : {
+      "@type" : "SearchAction",
+      "target" : "http://www.sitiweb.fvg.it/cerca/?s={search}",
+      "query-input" : "required name=search"
+    }
+  }
+  </script>
+  <script type="application/ld+json">
+  {
+    "@context" : "http://schema.org",
+    "@type" : "WebPage",
+    "name" : "{{ page.title }}",
+    "url" : "http://www.sitiweb.fvg.it{{ page.permalink }}"
+  }
+  </script>
+</html>

@@ -1,0 +1,25 @@
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% unless page.title %}Creazione siti web e consulente SEO a Udine | {{ site.title }}{% endunless %}{% if page.title %}{{  page.title }}{% endif %}</title>
+  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 163 }}{% else %}{{ site.description }}{% endif %}">
+  <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
+  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
+  <!-- Twitter Open Graph -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:site" content="@sitiweb.fvg" />
+  <meta name="twitter:creator" content="@sitiweb.fvg" />
+  <meta name="twitter:title" content="sitiweb.fvg è webdesigner a Udine per siti web. Siti internet a Udine" />
+  <meta name="twitter:description" content="Web agency a Udine per realizzare siti internet professionali e creare siti web efficaci a prezzi onesti." />
+  <meta name="twitter:image" content="http://www.sitiweb.fvg.it/img/sitiweb.fvg-share.jpg" />
+	<!-- Facebook Open Graph -->
+  <meta property="fb:profile_id" content="1529185313761350"/>
+  <meta property="og:title" content="sitiweb.fvg è webdesigner a Udine per siti web. Siti internet a Udine" />
+  <meta property="og:description" content="Web agency a Udine per realizzare siti internet professionali e creare siti web efficaci a prezzi onesti." />
+  <meta property="og:url" content="http://www.sitiweb.fvg.it/" />
+  <meta property="og:site_name" content="sitiweb.fvg-Web-Agency-Udine" />
+  <meta property="og:type" content="website" />
+  <meta property="og:image" content="http://www.sitiweb.fvg.it/img/sitiweb.fvg-share.jpg" />
+</head>
