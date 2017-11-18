@@ -80,5 +80,5 @@ Di recente introduzione fra i servizi sitiweb.fvg, l’utilizzo della tecnologia
       {% endfor %}
     </ul>
 
-    <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }} title="sottoscrivi il feed rss e mantieniti aggiornato in fatto di webdesign con i tutorial siti-web">via RSS</a></p>
+    <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}" title="sottoscrivi il feed rss e mantieniti aggiornato in fatto di webdesign con i tutorial siti-web">via RSS</a></p>
   </div>
