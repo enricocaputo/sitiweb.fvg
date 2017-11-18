@@ -37,7 +37,7 @@ Naturalmente, dalla prima all’ultima fase bisogna agire con una certa esperien
 ### Cosa fare?
 
 Affidatevi sempre a dei **professionisti**: Vi assicurano **risultati concreti**!
-Come fate a sapere se chi realizzerà il vostro sito è un professionista? Attraverso il suo <a href="/gallery/" title="vai alla foto gallery per il portfolio clienti di siti web Udine, Trieste e tutto il Friuli">portfolio clienti</a>.
+Come fate a sapere se chi realizzerà il vostro sito è un professionista? Attraverso il suo <a href="/gallery/" title="vai alla foto gallery per il portfolio clienti di SITIWEB a Udine, Trieste, Gorizia e Pordenone">portfolio clienti</a>.
 
 ### Il sito web é il Vostro specchio!
 
@@ -51,7 +51,7 @@ Non badate solo al risparmio. Il vostro sito web deve ispirare fiducia e deve di
 sitiweb.fvg realizza da sempre anche siti internet o singole pagine web con tecnologia dinamica / html / php e <abbr title="Content Management System - in italiano: Sistema di Gestione dei Contenuti">CMS</abbr> come **WordPress** per venire incontro alle esigenze di immagine di molte aziende.
 I siti realizzati con questa tecnica permettono un impatto grafico particolarmente gradevole, l’integrazione di animazioni, musica, dialoghi, video e molto altro ma sono quasi sempre incredibilemte **lenti nel caricamento delle pagine** e vengono penalizzati dalle posizioni, nei risultati di ricerca, loro assegnate dagli <abbr title="detto anche web crawler e robot, è un software che analizza i contenuti delle pagine web disponibili sulla rete in Internet">spider</abbr> dei motori di ricerca.
 
-Di recente introduzione fra i servizi sitiweb.fvg, l’utilizzo della tecnologia *generatore di siti statici* **Jekyll**, consente la messa online di siti statici molto più sicuri di WordPress ed estemamnte più veloci nel caricamento delle pagine. La loro gestione è poco onerosa sia in termini economici che di tempo. <a href="/11-08-2017/jekyll-siti-web-statici-veloci-e-sicuri.html">Scopri tutti i dettagli ...</a>
+Di recente introduzione fra i servizi sitiweb.fvg, l’utilizzo della tecnologia *generatore di siti statici* **Jekyll**, consente la messa online di siti statici molto più sicuri di WordPress ed estemamnte più veloci nel caricamento delle pagine. La loro gestione è poco onerosa sia in termini economici che di tempo. <a href="/11-08-2017/jekyll-siti-web-statici-veloci-e-sicuri.html" title="vai al tutorial su Jekill il generatore siti web statici">Scopri tutti i dettagli ...</a>
 
 
 ## ULTERIORI SERVIZI DELL'AGENZIA WEB:
@@ -66,7 +66,7 @@ Di recente introduzione fra i servizi sitiweb.fvg, l’utilizzo della tecnologia
   <br/>
   <div class="post-list">
 
-    <h2 class="page-heading">Posts</h2>
+    <h3 class="page-heading">Siti web/Creare siti/Tutorial</h3>
 
     <ul class="post-list">
       {% for post in site.posts %}
@@ -74,11 +74,11 @@ Di recente introduzione fra i servizi sitiweb.fvg, l’utilizzo della tecnologia
           <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
           <h2>
-            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}" title="vai al tutorial siti-web">{{ post.title }}</a>
           </h2>
         </li>
       {% endfor %}
     </ul>
 
-    <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+    <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }} title="sottoscrivi il feed rss e mantieniti aggiornato in fatto di webdesign con i tutorial siti-web">via RSS</a></p>
   </div>

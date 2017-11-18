@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Strumenti di WebDesign
-excerpt: Contenuti. Web Design Sviluppo Web System Integrations. Un website spesso costituisce la prima opinione che un consumatore si fa diW... Strumenti all'avanguardia
+excerpt: Contenuti. Web Design Sviluppo Web System Integrations. Un website spesso costituisce la prima opinione che un consumatore si fa di... Strumenti all'avanguardia
 permalink: /strumenti-web-design/
 sitemap:
   priority: 0.5
