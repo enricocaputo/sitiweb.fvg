@@ -106,9 +106,11 @@ images:
     title: template 47
 ---
 <br/>
-# Creazione siti web a Udine, Gorizia, Trieste e in Friuli-Venezia Giulia - Gallery
+# Gallery: progetti per siti web a Udine, Gorizia, Pordenone e Trieste
 
-### Fotogallery con esempi di siti internet
+Come valutare le **competenze** di un'agenzia di comunicazione?
+
+Le *promesse* sono facilmente ed oggettivamente riscontrabili? In questa sezione una selezione dei **progetti realizzati**.
 
 <ul class="photo-gallery">
   {% for image in page.images %}
