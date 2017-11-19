@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 'SITIWEB è agenzia web per Udine, Trieste e tutta la Regione Friuli'
-excerpt: 'Categoria: web designer, Nome: Enrico Caputo, Descrizione: Enrico Caputo è web designer a Udine, lavora presso sitiweb.fvg Web Agency Udine e freelance a Trieste'
+excerpt: 'Web agency per creazione siti web e posizionamento siti internet e SEO per aziende e professionisti, Udine Trieste Gorizia Pordenone, prezzi onesti!'
 permalink: /chi-siamo/
 sitemap:
   priority: 0.51
