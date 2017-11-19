@@ -1,6 +1,6 @@
 ---
 layout: portfolio
-Title: Web Agency SITIWEB, creazione siti web e consulente SEO - Gallery
+Title: Gallery di siti web, Agenzia Web Udine Trieste Gorizia Pordenone
 excerpt: Una foto-gallery di siti web creati da SITIWEB per aziende e professionisti in Friuli-Venezia Giulia, a Udine a Trieste a Gorizia e Pordenone.
 permalink: /gallery/
 sitemap:
