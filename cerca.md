@@ -1,11 +1,11 @@
 ---
 layout: page
 title: Cerca con Google Custom Search su SITIWEB
-excerpt: Cerca gli articoli da giardino, i consigli e i servizi di giardinaggio offerti da PotaSiepe
+excerpt: Cerca i servizi, web design, ottimizzazione siti internet, e i tutorial, presenti su SITIWEB - Web Agency a Udine, Trieste e in tutto il Friuli-Venezia Giulia
 permalink: /cerca/
 sitemap: false
 ---
-**Cerca tra i servizi di web design e SEO e i tutorial per realizzare siti internet Seo-Friendly offerti da SITIWEB, Web agency a Udine a Trieste e in tutto il Friuli-Venezia Giulia**
+**Cerca i servizi, web design, ottimizzazione di siti internet, e i tutorial, presenti su SITIWEB - Web Agency a Udine, Trieste e in tutto il Friuli-Venezia Giulia**
 
 <script>
   (function() {
