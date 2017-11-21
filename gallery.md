@@ -106,11 +106,12 @@ images:
     title: template 47
 ---
 <br/>
-# Gallery: progetti per siti web a Udine, Gorizia, Pordenone e Trieste
+# Gallery: creazione siti web a Udine, Gorizia, Pordenone e Trieste
+### Portfolio ed esempi di siti internet
 
 Come valutare le **competenze** di un'agenzia di comunicazione?
 
-Le *promesse* sono facilmente ed oggettivamente riscontrabili? In questa sezione una selezione dei **progetti realizzati**.
+Le *promesse* sono facilmente ed oggettivamente riscontrabili? In questa sezione una selezione dei **siti web realizzati**.
 
 <ul class="photo-gallery">
   {% for image in page.images %}
