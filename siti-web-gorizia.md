@@ -13,7 +13,7 @@ sitemap: true
 
 <p><strong>Realizzazione sito internet a Gorizia?</strong> Vai sul sicuro!</p>
 
-<p><strong>sitiweb.fvg</strong> è un’<strong>agenzia web a Gorizia</strong> che ti permette di realizzare il tuo nuovo sito web professionale a prezzo onesto.</p>
+<p><strong>SitiWeb</strong> è l’<strong>agenzia web a Gorizia</strong> che ti permette di realizzare il tuo nuovo sito web professionale a un ottimo prezzo e in tempi rapidi.</p>
 
 <h3 id="realizzazione-sito-web-aziendale">Realizzazione sito web Aziendale</h3>
 
