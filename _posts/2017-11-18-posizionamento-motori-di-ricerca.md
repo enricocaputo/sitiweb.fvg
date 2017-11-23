@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  Posizionamento sui motori di ricerca
+title: Posizionamento sui motori di ricerca
 excerpt: Per raggiungere un posizionamento duraturo dei siti web sui motori di ricerca si deve puntare al posizionamento organico. Come? Leggi l'articolo e scoprilo!
-author: sitiweb.fvg | web designer Udine
+author: SITIWEB | Agenzia Web
 date:   2017-11-18
 last_modified_at: 2017-11-19
 categories: 'tutorial'

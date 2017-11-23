@@ -30,7 +30,9 @@ Puoi utilizzare tipi diversi di markup per descrivere i tuoi dati con il vocabol
 
 ### Json
 Esempio:
-<code>
+
+```
+
   <script type="application/ld+json">
   {
   "@context": "http://schema.org/",
@@ -67,12 +69,15 @@ Esempio:
    ]
   }
   </script>
-</code>
+
+```
 
 
 ### Microdata
 Esempio:
-<code>
+
+```
+
   <!DOCTYPE HTML>
   <html>
    <head>
@@ -95,7 +100,8 @@ Esempio:
     </footer>
    </body>
   </html>
-</code>
+
+```
 
 ### Strumento di verifica Markup Dati strutturati
 Inserisci l'URL della tua pagina o il codice HTML contenente il markup nello
