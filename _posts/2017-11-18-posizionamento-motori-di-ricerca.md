@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Posizionamento sui motori di ricerca
-excerpt: sitiweb.fvg-Web-Agency-Udine è siti web statici. Web agency Udine usa il generatore di siti Jekyllrb per realizzare siti internet, blog e portali, a Udine a Trieste
+excerpt: Per raggiungere un posizionamento duraturo dei siti web sui motori di ricerca si deve puntare al posizionamento organico. Come? Leggi l'articolo e scoprilo!
 author: sitiweb.fvg | web designer Udine
 date:   2017-11-18
 last_modified_at: 2017-11-19
