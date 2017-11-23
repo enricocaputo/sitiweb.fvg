@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  Dati Strutturati: come aggiungerli ai siti web e a cosa servono.
+title: 'Dati Strutturati: cosa sono e come aggiungerli ai siti web'
 excerpt: Se Google comprende il markup delle tue pagine, può utilizzare tali informazioni per aggiungere rich snippet e altre funzionalità al tuo risultato di ricerca.
+author: SITIWEB | Agenzia Web
 date:   2017-11-18
 last_modified_at: 2017-11-18
 categories: 'tutorial'

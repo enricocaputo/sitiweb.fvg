@@ -2,7 +2,7 @@
 layout: post
 title:  'Jekyll: siti web statici, veloci e sicuri!'
 excerpt: sitiweb.fvg-Web-Agency-Udine è siti web statici. Web agency Udine usa il generatore di siti Jekyllrb per realizzare siti internet, blog e portali, a Udine a Trieste
-author: sitiweb.fvg | web designer Udine
+author: SITIWEB | Agenzia Web
 date:   2017-11-08
 last_modified_at: 2017-11-18
 categories: 'tutorial'
