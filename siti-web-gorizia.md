@@ -5,7 +5,7 @@ excerpt: Creazione Siti web Gorizia. Siti internet per aziende e professionisti,
 permalink: /siti-web-gorizia/
 sitemap: true
 ---
-<img src="/img/siti-web-gorizia.jpg" alt="Siti Web Gorizia - Agenzia Web Gorizia" title="Siti Web Gorizia - Agenzia Web Gorizia" width="800px" height="503px">
+<img src="/img/siti-web-gorizia.jpg" alt="Siti Web Gorizia - Agenzia Web Gorizia" title="Siti Web Gorizia - Agenzia Web Gorizia">
 
 <p>Il prezzo migliore per realizzare un sito internet a Gorizia</p>
 
