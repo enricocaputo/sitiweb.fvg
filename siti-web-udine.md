@@ -5,7 +5,7 @@ excerpt: Creazione Siti web Udine. Siti internet per aziende e professionisti, p
 permalink: /siti-web-udine/
 sitemap: true
 ---
-<img src="/img/siti-web-udine.jpg" alt="Siti Web Udine - Agenzia Web Udine" title="Siti Web Udine - Agenzia Web Udine" width="800px" height="503px">
+<img src="/img/siti-web-udine.jpg" alt="Siti Web Udine - Agenzia Web Udine" title="Siti Web Udine - Agenzia Web Udine">
 
 <p>Il prezzo migliore per realizzare un sito internet a Udine</p>
 

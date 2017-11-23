@@ -5,7 +5,7 @@ excerpt: Creazione Siti web Pordenone. Siti internet per aziende e professionist
 permalink: /siti-web-pordenone/
 sitemap: true
 ---
-<img src="/img/siti-web-pordenone.jpg" alt="Siti Web Pordenone - Agenzia Web Pordenone" title="Siti Web Pordenone - Agenzia Web Pordenone" width="800px" height="503px">
+<img src="/img/siti-web-pordenone.jpg" alt="Siti Web Pordenone - Agenzia Web Pordenone" title="Siti Web Pordenone - Agenzia Web Pordenone">
 
 <p>Il prezzo migliore per realizzare un sito internet a Pordenone</p>
 
