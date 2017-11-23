@@ -19,9 +19,9 @@ Offriamo soluzioni personalizzate e funzionali. Forniamo **servizi dedicati** e 
 
 Chiamteci per un appuntamento, siamo sempre lieti di recarci a visitare i nostri clienti direttamente presso la loro sede.
 Abbiamo lavorato a **[Trieste](/realizzazione-siti-internet-a-trieste.html)**,
-**Gorizia(/siti-web-gorizia/)**,
-**Udine(/siti-web-udine/)**,
-**Pordenone(/siti-web-pordenone/)** e in tutta la regione Friuli-Venezia Gilia.
+**[Gorizia](/siti-web-gorizia/)**,
+**[Udine](/siti-web-udine/)**,
+**[Pordenone](/siti-web-pordenone/)** e in tutta la regione Friuli-Venezia Gilia.
 
 
 ## Realizzazione siti web aziendali e siti statici
