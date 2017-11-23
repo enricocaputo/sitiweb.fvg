@@ -2,6 +2,7 @@
 layout: page
 title: Siti Internet Udine, Web Design | Agenzia di Comunicazione Udine
 excerpt: Creazione Siti web Udine. Siti internet per aziende e professionisti, posizionamento sui motori di ricerca. Prezzi onesti, visita gratuita e supporto continuo.
+permalink: /siti-web-udine/
 sitemap: true
 ---
 <img src="img/siti-web-udine.jpg" alt="Siti Web Udine - Agenzia Web Udine" title="Siti Web Udine - Agenzia Web Udine" width="800px" height="503px">

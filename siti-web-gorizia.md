@@ -2,6 +2,7 @@
 layout: page
 title: Siti Internet Gorizia, Web Design, SEO | Agenzia Web Gorizia
 excerpt: Creazione Siti web Gorizia. Siti internet per aziende e professionisti, posizionamento sui motori di ricerca. Prezzi onesti, visita gratuita e supporto continuo
+permalink: /siti-web-gorizia/
 sitemap: true
 ---
 <img src="img/siti-web-gorizia.jpg" alt="Siti Web Gorizia - Agenzia Web Gorizia" title="Siti Web Gorizia - Agenzia Web Gorizia" width="800px" height="503px">
