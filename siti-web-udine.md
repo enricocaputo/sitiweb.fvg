@@ -44,3 +44,23 @@ Come fate a sapere se chi realizzerà il vostro sito web a Udine è un professio
 <p>sitiweb.fvg, Agenzia Web per realizzare il tuo nuovo sito internet. Siamo anche a Udine!</p>
 
 <p><a href="/gallery/" title="vai al portfolio di siti web realizzati da sitiweb.fvg Web Agency Udine">Guarda alcune nostre realizzazioni..</a>.</p>
+
+<br/>
+<div class="post-list">
+
+  <h3 class="page-heading">Creazione Siti web / Tutorial:</h3>
+
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+        <h4>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}" title="vai al tutorial siti-web">{{ post.title }}</a>
+        </h4>
+      </li>
+    {% endfor %}
+  </ul>
+
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}" title="sottoscrivi il feed rss e mantieniti aggiornato in fatto di webdesign con i tutorial siti-web">via RSS</a></p>
+</div>
