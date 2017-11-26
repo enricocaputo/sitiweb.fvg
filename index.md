@@ -1,11 +1,10 @@
 ---
 layout: page
-title: Siti web per aziende e professionisti a Udine e in Friuli
-excerpt: 'SitiWeb fvg è creazione siti web a Udine. Servizi: siti internet statici, siti web responsive e mobile, siti professionali, SEO posizionamento motori di ricerca'
+title: SITIWEB Agenzia Web Udine: Creazione Siti Internet - Web Marketing
+excerpt: 'Agenzia Web a Udine specializzata in creazione siti web, per aziende e professionisti. Servizi: siti internet statici, siti web responsive, SEO e web marketing'
 sitemap:
   priority: 1
 ---
-<!-- Siti internet Udine Gorizia Pordenone Trieste - Agenzia web aziende -->
 <img src="/img/sitiweb.fvg-web-design-responsive-websites-min.png" alt="sitiweb.fvg è siti internet a Udine, web designer, responsive websites. sitiweb.fvg web agency Udine" title="sitiweb.fvg è siti internet a Udine, web designer, responsive websites. sitiweb.fvg web agency Udine">
 
 ### Realizzazione siti web di qualtità
