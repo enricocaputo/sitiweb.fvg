@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  'Jekyll: siti web statici, veloci e sicuri!'
-excerpt: sitiweb.fvg-Web-Agency-Udine è siti web statici. Web agency Udine usa il generatore di siti Jekyllrb per realizzare siti internet, blog e portali, a Udine a Trieste
+title:  'Creare siti web e blog statici con Jekyll'
+excerpt: Jekyll è un generatore di siti e blog statici. Che cosa significa? Pagine web che si caricano veloci e sicurezza. Un template html, un po' di markdown e Voilà!
 author: SITIWEB | Agenzia Web
 date:   2017-11-08
-last_modified_at: 2017-11-18
+last_modified_at: 2017-11-26
 categories: 'tutorial'
 comments: true
 ---
@@ -12,7 +12,7 @@ comments: true
 
 ## Velocità
 
-La prima caratteristica saliente di un sito statico è la velocità di caricamento delle sue pagine sul web.
+Il primo punto di forza di un sito web statico è la velocità: le pagine si caricano rapidamente e il web vola!
 
 **Non ci credete?** È sufficiente googlare <a href="https://developers.google.com/speed/pagespeed/insights/?hl=it" title="Vai alla pagina PageSpeed Insights di Goolge" rel="nofollow">PageSpeed Insights</a>: entrate in questa pagina e digitate la url (http:// www...ecc.) del vostro sito, nel giro di pochi secondi conoscerete la sue prestazioni e gli errori.
 
