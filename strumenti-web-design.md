@@ -1,10 +1,9 @@
 ---
 layout: page
-title: Web-Design: AMP (Accelerated Mobile Pages), Bootsratp, CMS
+title: 'Web-Design: AMP (Accelerated Mobile Pages), Bootsratp, CMS'
 excerpt: 'Strumenti di Web-Design a Udine: Sviluppo Web, System Integrations - un sito web spesso costituisce la prima opinione che un consumatore si fa del tuo business!'
 permalink: /strumenti-web-design/
-sitemap:
-  priority: 0.5
+sitemap: true
 ---
 
 <img src="/img/sitiweb.fvg-web-design.jpg" alt="sitiweb.fvg webdesign, web designer a Udine " title="sitiweb.fvg webdesign, web designer a Udine">
