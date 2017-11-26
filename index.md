@@ -83,10 +83,9 @@ Di recente introduzione fra i servizi sitiweb.fvg, l’utilizzo della tecnologia
       (adsbygoogle = window.adsbygoogle || []).push({});
  </script>
 
-  <br/>
   <div class="post-list">
 
-    <h3 class="page-heading">Siti Web - Guide e Tutorial:</h3>
+    <h3 class="page-heading">Siti Web: Guide e Tutorial</h3>
 
     <ul class="post-list">
       {% for post in site.posts %}
