@@ -43,7 +43,6 @@ sitemap: true
 <ul>
 <li>Fase 1: Consultazione e Pianificazione</li><li>Fase 2: Mock Up e Bozze Grafiche</li><li>Fase 3: Disegnare e Costruire</li><li>Fase 4: Pubblicare online</li>
 </ul>
-
 <br/>
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
@@ -57,6 +56,7 @@ sitemap: true
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
+<br/>
 <h3 id="sviluppo-web"> Sviluppo Web</h3>
 <p>I nostri sviluppatori web realizzeranno, in base alle Vostre richieste, il sito perfetto per il Vostro business.</p><p><b>Pianificare</b><br> La pianificazione è forse lo step più delicato e laborioso: dedicare il tempo necessario per mettere in piedi un progetto forte evita ritardi e problemi nelle fasi successive. Per questo motivo sarebbe bello poter lavorare a stretto contatto con Voi soprattutto in questa prima fase.</p><p><b>Creare</b><br> Creeremo il Vostro nuovo website con strumenti all'avanguardia e con la più alta qualità, in base a quanto pianificato insieme a Voi. In questa fase, normalmente, non è necessaria la partecipazione del committente. Ad ogni modo, vi informeremo sul rispetto delle tempistiche di progetto.</p><p><b>Lanciare</b><br> Quando sarete soddisfatti al 100% del Vostro nuovo sito web lo pubblicheremo online con un nome di dominio a Vostra scelta.</p><p><b>Strumenti utlizzati</b><br> Negli anni abbiamo sperimentato diverse piattaforme di sviluppo web, ma queste quattro sono quelle che attualmente preferiamo:</p>
 
@@ -71,15 +71,16 @@ sitemap: true
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
+     style="display:block"
      data-ad-format="fluid"
+     data-ad-layout-key="-ek+6b+d-bt+jv"
      data-ad-client="ca-pub-2292514451269367"
-     data-ad-slot="2995687528"></ins>
+     data-ad-slot="5679235778"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
+<br/>
 <h3 id="system-integrations"> System Integrations</h3>
 <p> Desiderate integrare un sistema oppure un'applicazione di terze parti sul Vostro sito?<br> Facile. Il nostro team ha implementato integrazioni per diversi sistemi, inclusi: spedizionieri, sistemi di pagamento, marketpalces, chat, società di controllo qualità e usabilità.<br> Semplicemte diteci qual'è il sistema che desiderate integrare sul Vostro sito e noi penseremo al resto.</p><h4><b>Integrazioni di Pagamento per OpenCart</b></h4><p>Siamo orgogliosi di aver integrato una vasta selezione di opzioni di pagamento sulla piattaforma per l'eCommerce OpenCart. Inclusi i seguenti:</p>
 
