@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Seo e Sem: danno visibilità al tuo business!
-excerpt: Promuovere siti web: posizionamento organico Vs Annunci a pagamento. Seo contro Sem, ovvero Search Engine Optimization VS Web Marketin. Come? Scoprilo adesso!
+excerpt: Promuovere siti web: posizionamento organico Vs Annunci a pagamento. Seo contro Sem, ovvero Search Engine Optimization VS Web Marketing. Come? Scoprilo adesso!
 author: SITIWEB | Agenzia Web
 date:   2017-11-18
 last_modified_at: 2017-11-26
