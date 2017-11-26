@@ -22,6 +22,16 @@ Abbiamo lavorato a **[Trieste](/realizzazione-siti-internet-a-trieste.html)**,
 **[Udine](/siti-web-udine/)**,
 **[Pordenone](/siti-web-pordenone/)** e in tutta la regione Friuli-Venezia Gilia.
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-ek+6b+d-bt+jv"
+     data-ad-client="ca-pub-2292514451269367"
+     data-ad-slot="5679235778"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ## Realizzazione siti web aziendali e siti statici
 
@@ -56,6 +66,16 @@ I siti realizzati con questa tecnica permettono un impatto grafico particolarmen
 
 Di recente introduzione fra i servizi sitiweb.fvg, l’utilizzo della tecnologia *generatore di siti statici* **Jekyll**, consente la messa online di siti statici molto più sicuri di WordPress ed estemamnte più veloci nel caricamento delle pagine. La loro gestione è poco onerosa sia in termini economici che di tempo. <a href="/11-08-2017/jekyll-siti-web-statici-veloci-e-sicuri.html" title="vai al tutorial su Jekill il generatore siti web statici">Scopri tutti i dettagli ...</a>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-ek+6b+d-bt+jv"
+     data-ad-client="ca-pub-2292514451269367"
+     data-ad-slot="5679235778"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ## ULTERIORI SERVIZI DELL'AGENZIA WEB:
 

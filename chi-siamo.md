@@ -11,7 +11,16 @@ sitemap: true
 
 SITIWEB fvg™ da **otto anni** con successo nel mercato on-line e off-line come digital e web agency. Agenzia di comunicazione per la creazione di loghi e la promozione online. Realizza siti internet per le piccole e medie aziende **a [Udine](/siti-web-udine/) e in tutto il Friuli-Venezia Giulia**. Formula proposte altamente personalizzate e offre supporto costante nel tempo. Operiamo anche a **[Trieste](/realizzazione-siti-internet-a-trieste.html)**, **[Gorizia](/siti-web-gorizia/)** e **[Pordenone](/siti-web-pordenone/)**.
 
-
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-ek+6b+d-bt+jv"
+     data-ad-client="ca-pub-2292514451269367"
+     data-ad-slot="5679235778"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ## Web designer
 ### e SEO specialist

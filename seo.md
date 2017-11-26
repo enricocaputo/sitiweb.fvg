@@ -26,6 +26,17 @@ Un buon consulente SEO saprà facilmente individuare le **parole chiave più eff
 
 <br/>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-ek+6b+d-bt+jv"
+     data-ad-client="ca-pub-2292514451269367"
+     data-ad-slot="5679235778"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ### Ottimizzazione SEO on site
 
 Obiettivo dell’**ottimizzazione on site** è perfezionare i **contenuti** (immagini, testi, video) e, soprattutto, la **struttura** del sito. In questa fase occorre correggere gli errori presenti all’interno del codice HTML e ottimizzare opportunamente:
@@ -38,6 +49,17 @@ Obiettivo dell’**ottimizzazione on site** è perfezionare i **contenuti** (imm
 La velocità del sito, soprattutto nel caso di un **e-commerce**, è un parametro cruciale. Oggi, infatti, la velocità di caricamento delle pagine è uno dei fattori di posizionamento più importanti.
 
 <br/>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-ek+6b+d-bt+jv"
+     data-ad-client="ca-pub-2292514451269367"
+     data-ad-slot="5679235778"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ### Posizionamento siti web e digital PR
 
