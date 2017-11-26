@@ -3,14 +3,13 @@ layout: page
 title: 'SITIWEB è agenzia web per Udine, Trieste e tutta la Regione Friuli'
 excerpt: 'Web agency per creazione siti web e posizionamento siti internet e SEO per aziende e professionisti, Udine Trieste Gorizia Pordenone, prezzi onesti!'
 permalink: /chi-siamo/
-sitemap:
-  priority: 0.51
+sitemap: true
 ---
 <blockquote>Insieme dal 2010</blockquote>
 
 <h3>e agenzia di comunicazione</h3>
 
-SITIWEB fvg™ da **otto anni** con successo nel mercato on-line e off-line come digital e web agency. Agenzia di comunicazione per la creazione di loghi e la promozione online. Realizza siti internet per le piccole e medie aziende **a Udine e in tutto il Friuli-Venezia Giulia**. Formula proposte altamente personalizzate e offre supporto costante nel tempo. Ci spostiamo a **[Trieste](/realizzazione-siti-internet-a-trieste.html)**, **Gorizia**, **Pordenone**.
+SITIWEB fvg™ da **otto anni** con successo nel mercato on-line e off-line come digital e web agency. Agenzia di comunicazione per la creazione di loghi e la promozione online. Realizza siti internet per le piccole e medie aziende **a [Udine](/siti-web-udine/) e in tutto il Friuli-Venezia Giulia**. Formula proposte altamente personalizzate e offre supporto costante nel tempo. Operiamo anche a **[Trieste](/realizzazione-siti-internet-a-trieste.html)**, **[Gorizia](/siti-web-gorizia/)** e **[Pordenone](/siti-web-pordenone/)**.
 
 
 
