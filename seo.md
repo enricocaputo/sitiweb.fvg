@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Consulente SEO Udine e Trieste, posizionamento siti web
-excerpt: 'Consulente SEO e Web Marketing Udine Trieste: offro consulenza posizionamento e negative SEO, ottimizzazione on site, link building. Preventivi gratuiti in 24h!'
+title: Web Marketing Udine, Adv, Seo (Search Engine Optimization)
+excerpt: 'Agenzia Web Marketing Udine: Sem (Web Marketing), Posizionamento Organico (Google, Bing), Annunci Pay x Click, ottimizzazione on site, link building. Low Cost!'
 permalink: /servizi/seo-posizionamento-motori-ricerca/
 sitemap:
   priority: 0.55
