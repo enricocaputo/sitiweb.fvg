@@ -23,7 +23,6 @@ sitemap: true
 Ancor prima di iniziare con la fase di **ottimizzazione on site**, è necessario esaminare la struttura del sito, il settore di riferimento ed effettuare una puntuale analisi dei competitor diretti, in modo da sfruttare eventuali “falle” e cogliere le migliori opportunità, così da offrire agli utenti contenuti e servizi realmente utili e significativi.
 
 Un buon consulente SEO saprà facilmente individuare le **parole chiave più efficaci** – quelle che, con maggior probabilità, l’utente utilizzerà per cercare sui motori di ricerca la tua attività – e identificare tutti i punti di forza e di debolezza del sito e gli eventuali errori a cui porre rimedio nella fase successiva. Fondamentale è fissare **obiettivi** precisi e misurabili nel tempo.
-
 <br/>
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
@@ -37,6 +36,7 @@ Un buon consulente SEO saprà facilmente individuare le **parole chiave più eff
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
+<br/>
 ### Ottimizzazione SEO on site
 
 Obiettivo dell’**ottimizzazione on site** è perfezionare i **contenuti** (immagini, testi, video) e, soprattutto, la **struttura** del sito. In questa fase occorre correggere gli errori presenti all’interno del codice HTML e ottimizzare opportunamente:
@@ -47,7 +47,6 @@ Obiettivo dell’**ottimizzazione on site** è perfezionare i **contenuti** (imm
   -  performance e velocità di caricamento
 
 La velocità del sito, soprattutto nel caso di un **e-commerce**, è un parametro cruciale. Oggi, infatti, la velocità di caricamento delle pagine è uno dei fattori di posizionamento più importanti.
-
 <br/>
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
@@ -61,6 +60,7 @@ La velocità del sito, soprattutto nel caso di un **e-commerce**, è un parametr
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
+<br/>
 ### Posizionamento siti web e digital PR
 
 La consulenza SEO avrà come scopo primario l’incremento dei contatti e delle conversioni: per realizzare ciò è indispensabile consolidare il posizionamento sui motori di ricerca ed aumentare la **popolarità** del sito.
