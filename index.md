@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 'SITIWEB Agenzia Web Udine: Creazione Siti Internet - Web Marketing'
-excerpt: 'Agenzia Web a Udine specializzata in creazione siti web, per aziende e professionisti. Servizi: siti internet statici, siti web responsive, SEO e web marketing'
+title: 'Creazioni Siti Web Udine, Agenzia Web SITIWEB'
+excerpt: 'Realizzazione Siti web Udine. Siti internet per aziende e professionisti, siti web responsive, posizionamento Google e Bing. Preventivo gratuito, Prezzi Onesti!'
 sitemap:
   priority: 1
 ---
