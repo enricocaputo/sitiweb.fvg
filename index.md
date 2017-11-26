@@ -58,7 +58,6 @@ Il sito dovrà essere la vetrina dei vostri prodotti e presentare la vostra azie
 
 Non badate solo al risparmio. Il vostro sito web deve ispirare fiducia e deve dimostrare immediatamente che dietro ad esso ci sia una struttura funzionante che crede nel web.
 
-
 ### Un appunto su *siti internet dinamici* e *siti web statici*
 
 sitiweb.fvg realizza da sempre anche siti internet o singole pagine web con tecnologia dinamica / html / php e <abbr title="Content Management System - in italiano: Sistema di Gestione dei Contenuti">CMS</abbr> come **WordPress** per venire incontro alle esigenze di immagine di molte aziende.
@@ -66,30 +65,28 @@ I siti realizzati con questa tecnica permettono un impatto grafico particolarmen
 
 Di recente introduzione fra i servizi sitiweb.fvg, l’utilizzo della tecnologia *generatore di siti statici* **Jekyll**, consente la messa online di siti statici molto più sicuri di WordPress ed estemamnte più veloci nel caricamento delle pagine. La loro gestione è poco onerosa sia in termini economici che di tempo. <a href="/11-08-2017/jekyll-siti-web-statici-veloci-e-sicuri.html" title="vai al tutorial su Jekill il generatore siti web statici">Scopri tutti i dettagli ...</a>
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="fluid"
-     data-ad-layout-key="-ek+6b+d-bt+jv"
-     data-ad-client="ca-pub-2292514451269367"
-     data-ad-slot="5679235778"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 ## ULTERIORI SERVIZI DELL'AGENZIA WEB:
 
 - **Restyling Sito Web**. Se avete già un sito internet che non vi soddisfa è possibile ridisegnare la veste grafica e rivedere i contenuti, ma attenzione, bisogna agire sempre con un’analisi accurata del sito prima di cancellare, modificare, ricostruire: a volte pagine “bruttissime” possono avere buone posizioni sui motori di ricerca ed il web designer pur di rifare il sito web ex-novo, cancella tutto e penalizza l’indicizzazione su google, su bing e su altri motori di ricerca.
 - **Consulente SEO**. Campagne AdWords, Facebook e web marketing per ottenere un buon posizionamento sui motori di ricerca.
  <a href="/11-18-2017/posizionamento-motori-di-ricerca.html" title="web agency udine, consulenze seo. web marketing per siti internet.">porta il tuo sito in prima pagina su Google!</a>
+<br/>
 
-
-
+ <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+ <ins class="adsbygoogle"
+      style="display:block"
+      data-ad-format="fluid"
+      data-ad-layout-key="-ek+6b+d-bt+jv"
+      data-ad-client="ca-pub-2292514451269367"
+      data-ad-slot="5679235778"></ins>
+ <script>
+      (adsbygoogle = window.adsbygoogle || []).push({});
+ </script>
 
   <br/>
   <div class="post-list">
 
-    <h3 class="page-heading">Creazione Siti web / Tutorial:</h3>
+    <h3 class="page-heading">Siti Web - Guide e Tutorial:</h3>
 
     <ul class="post-list">
       {% for post in site.posts %}
