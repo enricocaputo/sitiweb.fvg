@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Strumenti di WebDesign
-excerpt: Contenuti. Web Design Sviluppo Web System Integrations. Un website spesso costituisce la prima opinione che un consumatore si fa di... Strumenti all'avanguardia
+title: Web-Design: AMP (Accelerated Mobile Pages), Bootsratp, CMS
+excerpt: 'Strumenti di Web-Design a Udine: Sviluppo Web, System Integrations - un sito web spesso costituisce la prima opinione che un consumatore si fa del tuo business!'
 permalink: /strumenti-web-design/
 sitemap:
   priority: 0.5
