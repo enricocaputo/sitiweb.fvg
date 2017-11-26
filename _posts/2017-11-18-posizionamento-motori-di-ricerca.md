@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Posizionamento sui motori di ricerca
-excerpt: Per raggiungere un posizionamento duraturo dei siti web sui motori di ricerca si deve puntare al posizionamento organico. Come? Leggi l'articolo e scoprilo!
+title: Seo e Sem: danno visibilità al tuo business!
+excerpt: Promuovere siti web: posizionamento organico Vs Annunci a pagamento. Seo contro Sem, ovvero Search Engine Optimization VS Web Marketin. Come? Scoprilo adesso!
 author: SITIWEB | Agenzia Web
 date:   2017-11-18
-last_modified_at: 2017-11-19
+last_modified_at: 2017-11-26
 categories: 'tutorial'
 comments: true
 ---
