@@ -28,7 +28,7 @@ Enrico Caputo è **seo specialist** per Sitiweb-fvg a Udine. Lavora **Freelance*
   <ul class="post-list">
     {% for post in site.posts %}
       <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+        <span class="post-meta">{{ post.last_modified_at | date: "%b %-d, %Y" }}</span>
 
         <h4>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}" title="vai al tutorial siti-web">{{ post.title }}</a>
