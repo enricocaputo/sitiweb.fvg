@@ -22,17 +22,6 @@ Abbiamo lavorato a **[Trieste](/realizzazione-siti-internet-a-trieste.html)**,
 **[Udine](/siti-web-udine/)**,
 **[Pordenone](/siti-web-pordenone/)** e in tutta la regione Friuli-Venezia Gilia.
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="fluid"
-     data-ad-layout-key="-ek+6b+d-bt+jv"
-     data-ad-client="ca-pub-2292514451269367"
-     data-ad-slot="5679235778"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 ## Realizzazione siti web aziendali e siti statici
 
 Per la realizzazione di un sito web ci sono delle fasi da rispettare, ed ormai qualsiasi web agency o web designer è in grado di offrire servizi quali:
@@ -72,16 +61,16 @@ Di recente introduzione fra i servizi sitiweb.fvg, l’utilizzo della tecnologia
  <a href="/11-18-2017/posizionamento-motori-di-ricerca.html" title="web agency udine, consulenze seo. web marketing per siti internet.">porta il tuo sito in prima pagina su Google!</a>
 <br/>
 
- <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
- <ins class="adsbygoogle"
-      style="display:block"
-      data-ad-format="fluid"
-      data-ad-layout-key="-ek+6b+d-bt+jv"
-      data-ad-client="ca-pub-2292514451269367"
-      data-ad-slot="5679235778"></ins>
- <script>
-      (adsbygoogle = window.adsbygoogle || []).push({});
- </script>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2292514451269367"
+     data-ad-slot="2995687528"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
   <div class="post-list">
 
