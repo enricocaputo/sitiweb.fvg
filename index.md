@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 'sitiWeb è WebDesign in Friuli: Creazione e Restyling Siti Internet'
+title: 'SITIWEB è WebDesign in Friuli: Creazione e Restyling Siti Internet'
 excerpt: 'Realizzazione siti Web Udine. Siti internet per aziende e professionisti, siti web responsive, posizionamento Google e Bing. Preventivo gratuito, Prezzi Onesti!'
 sitemap:
   priority: 1
