@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 'SITIWEB è WebDesign per siti Internet a Udine e in tutto il Friuli'
+title: 'SITIWEB è WebDesign per siti Internet a Udine e in Friuli'
 excerpt: 'Realizzazione siti Web Udine. Siti internet per aziende e professionisti, siti web responsive, posizionamento Google e Bing. Preventivo gratuito, Prezzi Onesti!'
 sitemap:
   priority: 1
