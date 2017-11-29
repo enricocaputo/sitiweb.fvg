@@ -1,11 +1,11 @@
 ---
 layout: page
-title: 'SITIWEB è WebDesign in Udine: Creazione e Restyling Siti Internet'
-excerpt: 'Realizzazione Siti web Udine. Siti internet per aziende e professionisti, siti web responsive, posizionamento Google e Bing. Preventivo gratuito, Prezzi Onesti!'
+title: 'sitiWeb è WebDesign in Friuli: Creazione e Restyling Siti Internet'
+excerpt: 'Realizzazione siti Web Udine. Siti internet per aziende e professionisti, siti web responsive, posizionamento Google e Bing. Preventivo gratuito, Prezzi Onesti!'
 sitemap:
   priority: 1
 ---
-<img src="/img/sitiweb.fvg-web-design-responsive-websites-min.png" alt="sitiweb.fvg è siti internet a Udine, web designer, responsive websites. sitiweb.fvg web agency Udine" title="sitiweb.fvg è siti internet a Udine, web designer, responsive websites. sitiweb.fvg web agency Udine">
+<img src="/img/sitiweb.fvg-web-design-responsive-websites-min.png" alt="sitiWeb è web design per siti Internet - agenzia web a Udine a Trieste e in tutto il Friuli" title="sitiWeb è web design per siti Internet - agenzia web a Udine a Trieste e in tutto il Friuli">
 
 ### Realizzazione siti web di qualtità
 
