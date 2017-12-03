@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 'Siti Web: l'agenzia Web n. 1 a Udine!'
-excerpt: 'Creazione Siti web Udine. Siti internet per aziende e professionisti, posizionamento sui motori di ricerca. Prezzi onesti, visita gratuita e supporto continuo.'
+excerpt: Creazione Siti web Udine. Siti internet per aziende e professionisti, posizionamento sui motori di ricerca. Prezzi onesti, visita gratuita e supporto continuo.
 permalink: /siti-web-udine/
 sitemap: true
 ---
