@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Siti Internet Pordenone, Web Design, Agenzia Web Marketing
-excerpt: Creazione Siti web Pordenone. Siti internet per aziende e professionisti, posizionamento motori di ricerca. Ottimi prezzi, visita gratuita, supporto continuo.
+title: 'Agenzia Siti Web Pordenone: Creazione e Realizzazione Siti Internet'
+excerpt: Agenzia Web a Pordenone specializzata in realizzazione siti internet, creazione siti web, studio grafico, web marketing. Web Agency Pordenone.
 permalink: /siti-web-pordenone/
 sitemap: true
 ---

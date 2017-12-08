@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 'SITIWEB Agenzia Web Gorizia: Creazione Siti Internet, Web Marketing'
-excerpt: Creazione Siti web Gorizia. Siti internet per aziende e professionisti, posizionamento sui motori di ricerca. Prezzi onesti, visita gratuita e supporto continuo
+title: 'Agenzia Siti Web Gorizia: Creazione Siti Internet, Web Marketing'
+excerpt: Agenzia Web a Gorizia specializzata in realizzazione siti internet, creazione siti web, studio grafico, web marketing. Web Agency Gorizia.
 permalink: /siti-web-gorizia/
 sitemap: true
 ---
