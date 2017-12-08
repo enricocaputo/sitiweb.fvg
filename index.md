@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 'Agenzia Siti Web Udine: siti internet per le aziende del Friuli'
-excerpt: 'Realizzazione siti Web Udine. Siti internet per aziende e professionisti, siti web responsive, posizionamento Google e Bing. Preventivo gratuito, Prezzi Onesti!'
+excerpt: 'Agenzia Web a Udine specializzata in realizzazione siti internet, creazione siti web, studio grafico, web marketing. Web Agency Udine.'
 sitemap:
   priority: 1
 ---
