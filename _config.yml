@@ -1,7 +1,7 @@
-title: SITIWEB
+title: Siti Web fvg
 email: info@sitiweb.fvg.it
 tel: +39-388-9005888
-description: SITIWEB è webDesign per siti Internet a Udine e in tutto il Friuli. Siti web professionali, siti internet statici, siti responsive e mobile.
+description: Siti Web fvg, websites design, a Udine a Trieste e in tutto il Friuli. Siti web per aziende, siti internet per liberi professionisti , siti responsive e mobile.
 baseurl: "/"
 url: "http://www.sitiweb.fvg.it"
 facebook_username: SITIWEB.fvg
@@ -9,7 +9,7 @@ linkedin_username: SITIWEB.fvg
 
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: sitiweb.fvg | web designer Udine
+  name: Siti Web fvg | Agenzia  Web Udine
   email: "info@sitiweb.fvg.it"
   facebook: sitiweb.fvg
 
