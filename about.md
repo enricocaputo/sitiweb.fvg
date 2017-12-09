@@ -2,7 +2,7 @@
 layout: page
 title: 'REALIZZAZIONE SITI WEB, Web Design Agency, Sviluppo siti Ecommerce'
 excerpt: 'Web Agency, vincitrice di numerosi premi, da 10 anni realizza siti web e campagne di web marketing. Richiedi un preventivo gratuito.'
-permalink: /chi-siamo/
+permalink: /about/
 sitemap: true
 ---
 <blockquote>Insieme dal 2010</blockquote>
