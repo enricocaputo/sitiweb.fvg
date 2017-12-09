@@ -14,7 +14,7 @@ SitiWeb.fvg da ormai un decennio si occupa di progettazione e **creazione di sit
 Una volta che il sito è stato creato è poi importante che venga trovato facilemte dai potenziali cleinti. Per questo motivo ci manteniamo costantemente
 aggiornati sulle best practice e le novità in materia di SEO e tecniche di posizionamento sui motori di ricerca.
 
-Offriamo soluzioni personalizzate e funzionali. Forniamo **servizi dedicati** e **su misura** rivolti alla comunicazione online: **web design** e **web restyling**, **gestione e assistenza** siti internet e offline.
+Offriamo soluzioni personalizzate e funzionali. Assicuriamo **servizi dedicati** e **su misura** rivolti alla comunicazione online di azeinde e professionisti: **web design**, **web restyling**, **assistenza** e **gestione** siti internet e offline.
 
 Chiamteci per un appuntamento, siamo sempre lieti di recarci a visitare i nostri clienti direttamente presso la loro sede.
 Abbiamo lavorato a **[Trieste](/realizzazione-siti-internet-a-trieste.html)**,
@@ -45,14 +45,14 @@ Come fate a sapere se chi realizzerà il vostro sito è un professionista? Attra
 
 Il sito dovrà essere la vetrina dei vostri prodotti e presentare la vostra azienda, dunque, è facile capire l’importanza di una organizzazione ragionata dei contenuti e di una corretta impaginazione con grafica esclusiva ed attraente.
 
-Non badate solo al risparmio. Il vostro sito web deve ispirare fiducia e deve dimostrare immediatamente che dietro ad esso ci sia una struttura funzionante che crede nel web.
+Non badate solo al risparmio. Il vostro sito web deve ingenerare fiducia negli utenti e deve far sentire immediatamente a proprio agio. Deve essere costruito in modo logico e funzionale e dimostrando di credere nel web.
 
 ### Un appunto su *siti internet dinamici* e *siti web statici*
 
 sitiweb.fvg realizza da sempre anche siti internet o singole pagine web con tecnologia dinamica / html / php e <abbr title="Content Management System - in italiano: Sistema di Gestione dei Contenuti">CMS</abbr> come **WordPress** per venire incontro alle esigenze di immagine di molte aziende.
 I siti realizzati con questa tecnica permettono un impatto grafico particolarmente gradevole, l’integrazione di animazioni, musica, dialoghi, video e molto altro ma sono quasi sempre incredibilemte **lenti nel caricamento delle pagine** e vengono penalizzati dalle posizioni, nei risultati di ricerca, loro assegnate dagli <abbr title="detto anche web crawler e robot, è un software che analizza i contenuti delle pagine web disponibili sulla rete in Internet">spider</abbr> dei motori di ricerca.
 
-Di recente introduzione fra i servizi sitiweb.fvg, l’utilizzo della tecnologia *generatore di siti statici* **Jekyll**, consente la messa online di siti statici molto più sicuri di WordPress ed estemamnte più veloci nel caricamento delle pagine. La loro gestione è poco onerosa sia in termini economici che di tempo. <a href="/11-08-2017/jekyll-siti-web-statici-veloci-e-sicuri.html" title="vai al tutorial su Jekill il generatore siti web statici">Scopri tutti i dettagli ...</a>
+Vanto dei servizi sitiweb.fvg è l’utilizzo della tecnologia **Jekyll**, *generatore di siti statici*: consente la messa online di siti statici molto più sicuri di WordPress ed estremamente più veloci nel caricamento delle pagine. La loro gestione è poco onerosa sia in termini economici che di tempo. <a href="/11-08-2017/jekyll-siti-web-statici-veloci-e-sicuri.html" title="vai al tutorial su Jekill il generatore siti web statici">Scopri tutti i dettagli ...</a>
 
 ## ULTERIORI SERVIZI DELL'AGENZIA WEB:
 
