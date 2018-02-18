@@ -67,8 +67,12 @@ a.googleSearch:hover {
             margin-right: 20px;
         }
     }
-
-
+a.page-link {
+  text-decoration: none;
+  &:hover{
+    color: $brand-color;
+  }
+}
 
     @include media-query($on-palm) {
         position: absolute;
