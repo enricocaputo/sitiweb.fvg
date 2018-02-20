@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 'REALIZZAZIONE SITI WEB, Web Design Agency, Sviluppo siti Ecommerce'
+title: 'Web Designer, E-commerce'
 excerpt: 'Web Agency, vincitrice di numerosi premi, da 10 anni realizza siti web e campagne di web marketing. Richiedi un preventivo gratuito.'
 permalink: /chi-siamo/
 sitemap: true
